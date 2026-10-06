@@ -1,18 +1,11 @@
 {
-  "v": 1,
-  "sections": [
-    {
-      "title": "FROM MERLIN",
-      "lines": [
-        "First edition on your X3. This is a dispatch now, not a todo list: things I notice that are worth your attention.",
-        "Henry landed in the Fort Knox patrol under Isaac Bess in the Troop 186 reshuffle."
-      ]
-    },
-    {
-      "title": "ON THE RADAR",
-      "lines": [
-        "Pacagen Nov skip: auto-reply only so far, real confirmation still pending"
-      ]
-    }
+  "v": 2,
+  "notes": [
+    "Henry landed in the Fort Knox patrol under Isaac Bess in the Troop 186 reshuffle.",
+    "This feed reads your inbox now. If something interesting lands, you will see it here first.",
+    "Your X3 checks in every ten minutes. The weather, the headlines, and this note all refresh on their own."
+  ],
+  "radar": [
+    "Pacagen Nov skip: auto-reply only so far, real confirmation still pending"
   ]
 }
