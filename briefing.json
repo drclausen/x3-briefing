@@ -12,7 +12,12 @@
     "Your calendar runs the Today section. I just make it legible.",
     "Quiet mornings are for reading."
   ],
-  "radar": [],
+  "radar": [
+    {
+      "t": "Test push - Saturday soccer logistics",
+      "until": "2026-10-12"
+    }
+  ],
   "agenda": [
     "ALL DAY Luca off",
     "6:00A Lily with kids",
